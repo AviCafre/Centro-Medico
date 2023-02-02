@@ -1,6 +1,11 @@
 .header{
-    background: url(imagenes/logo-crop.jpeg);
+    background: url(imagenes/medicenter.jpg);
     height: 400px;
+}
+.titulo1{
+    color: rgb(29, 104, 216);
+    font-weight: bold;
+    font-size: 40px;
 }
 h1{
     padding: 20px;
